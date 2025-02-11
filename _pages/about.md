@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Deep Learning for Neuroengineering"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,8 @@ redirect_from:
 
 ***
 
-***It don't mean a thing if it ain't got that swing***
+It don't mean a thing if it ain't got that swing
+===
 
 <p align="center">
 <img src="dlcover.png" width="95%">
