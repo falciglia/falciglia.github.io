@@ -20,13 +20,11 @@ About Me 🧠
 ======
 I hope to make my own contribution to medical scientific research. Electronic and AI&R engineering background to tackle challenges in medicine, neuroscience and neuroengineering. New decoding systems of CNS signals, a better understanding of the human brain, the mechanics behind memory, reasoning, knowledge and deduction is the breakthrough that people need today.
 
-<div align="center">
   
 Interests🧐
 ======
 *Neuroengineering* - *Neural Decoding* - *Neural Information Processing* - *Deep Learning* - *Artificial Intelligence* - *Bioelectronics*
 
-</div>
 
 Education📚
 ------
