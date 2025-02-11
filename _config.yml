@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Salvatore Falciglia"
 title_separator          : "-"
 name                     : &name "Salvatore Falciglia"
-description              : &description "PhD Student"
+description              : &description "PhD Student at the Biorobotics Institute"
 url                      : https://falciglia.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "falciglia.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Salvatore Falciglia"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "Deep Learning for Neuroengineering"
+  bio              : "PhD Student in Neuroengineering"
   location         : "Pisa, Italy"
   employer         : "Sant'Anna School of// Advanced Studies"
   uri              : # URL
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : "falciglia_"
   lastfm           : # Username
-  linkedin         : "Salvatore Falciglia"
+  linkedin         : "salvatore-falciglia"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
