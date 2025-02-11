@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "FALCIGLIA.jpg"
   name             : "Salvatore Falciglia"
-  pronouns         : "he/him" # example: "she/her"  
   bio              : "PhD Student in Neuroengineering"
+  pronouns         : "he/him" # example: "she/her"  
   location         : "Pisa, Italy"
   employer         : "Sant'Anna School of Advanced Studies"
   uri              : # URL
