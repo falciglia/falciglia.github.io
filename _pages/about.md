@@ -7,16 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-<div align="center">
-
-It don't mean a thing if it ain't got that swing
+"It don't mean a thing if it ain't got that swing"
 ===
 
 <p align="center">
 <img src="dlcover.png" width="95%">
 </p>
 
-</div>
+
 
 About Me 🧠
 ======
