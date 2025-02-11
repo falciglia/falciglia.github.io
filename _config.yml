@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Salvatore Falciglia"
 title_separator          : "-"
 name                     : &name "Salvatore Falciglia"
-description              : &description "Deep Learning for Neuroengineering"
+description              : &description "PhD Student"
 url                      : https://falciglia.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "falciglia.github.io"
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : "falciglia_"
   lastfm           : # Username
-  linkedin         : "salvatore-falciglia"
+  linkedin         : "Salvatore Falciglia"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
