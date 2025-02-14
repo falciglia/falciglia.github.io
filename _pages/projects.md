@@ -1,12 +1,16 @@
+---
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
+
 ***Deep Learning for Neuroengineering***
 
 ---
 
-<div align="center">
-
-# 👷 Past Works (unpublished)
-
-</div>
+👷 Past Works (unpublished)
+======
 
 - **Neural Visual Decoding with fMRI** | <👨‍💻[code.](https://github.com/falciglia/Sapienza-Rome/tree/main/Neural%20Visual%20Decoding%20with%20fMRI)><br>
   Part of Salvatore Falciglia's MSc thesis @ [Sapienza University of Rome](https://www.uniroma1.it/it/pagina-strutturale/home) & [SSAS](https://web.uniroma1.it/sssas/). 2023
