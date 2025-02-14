@@ -25,16 +25,5 @@ author_profile: true
   <🎧 [podcast.](https://github.com/falciglia/Sapienza-Rome/raw/refs/heads/main/Neural%20Visual%20Decoding%20with%20EEG/podcast_RieManiSpectraNet.wav)> <br>
   S.Falciglia, F.Betello, S.Russo, C.Napoli#. Neurocomputing 2024.
 
----
+--- 
 
- 
-***Please, reach out to collaborate!***
-======
-  
-<a href="https://www.linkedin.com/in/salvatore-falciglia/" target="blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/linkedin.svg" height="30" width="40" /></a>
-<a href="https://github.com/falciglia" target="blank"><img align="center" src="https://en.wikipedia.org/wiki/GitHub#/media/File:GitHub_Invertocat_Logo.svg" height="30" width="40" /></a>
-<a href="https://scholar.google.com/citations?hl=it&user=E-nObHcAAAAJ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="@AzharGhafoor" height="30" width="40" /></a> 
-<a href="https://www.instagram.com/falciglia_/" target="blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/instagram.svg" height="30" width="40" /></a> 
-
-</p>
-</div>
