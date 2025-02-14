@@ -1,10 +1,16 @@
+---
+layout: archive
+title: "Conferences"
+permalink: /conferences/
+author_profile: true
+---
+
 ***Deep Learning for Neuroengineering***
 
 ---
 
-
 🎙️ Conferences
-
+======
 
 - **The First Conference of the Italian Network for Computational Neuroscience (INCN)** - Rome, Italy *(September 23-26, 2024)* <br>
   Poster presentation. [[Program](INCN1_program.pdf)] [[Poster](INCN1_poster.pdf)]
