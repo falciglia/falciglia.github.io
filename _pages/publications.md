@@ -10,7 +10,7 @@ author_profile: true
 ---
 
 📰 Featured Publications
-===
+======
 
 - 📄 [Transformer-based long-term predictor of subthalamic beta activity in Parkinson’s disease.](https://doi.org/10.1101/2024.11.25.24317759)
   | <👨‍💻[code.](https://github.com/falciglia/Sant-Anna-Pisa/tree/main/LAURA)>
@@ -29,7 +29,7 @@ author_profile: true
 
  
 ***Please, reach out to collaborate!***
-===
+======
   
 <a href="https://www.linkedin.com/in/salvatore-falciglia/" target="blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/linkedin.svg" height="30" width="40" /></a>
 <a href="https://github.com/falciglia" target="blank"><img align="center" src="https://en.wikipedia.org/wiki/GitHub#/media/File:GitHub_Invertocat_Logo.svg" height="30" width="40" /></a>
