@@ -12,6 +12,9 @@ author_profile: true
 📰 Featured Publications
 ======
 
+- 📄 [Task-related biomarkers and technical developments for adaptive deep brain stimulation in Parkinson’s disease](https://www.brainstimjrnl.com/article/S1935-861X(24)00372-3/fulltext) <br>
+  S.Falciglia, L.Caffi, R.Habib, I.Hanafi, N.Pozzi, S.Marceglia, M.Arlotti, L.Rossi, A.Mazzoni, I.U.Isaias, C.Palmisano. [Brain Stimulation 2025]
+
 - 📄 [Transformer-based long-term predictor of subthalamic beta activity in Parkinson’s disease.](https://doi.org/10.1101/2024.11.25.24317759)
   | <👨‍💻[code.](https://github.com/falciglia/Sant-Anna-Pisa/tree/main/LAURA)>
   <🎧 [podcast.](https://github.com/falciglia/Sant-Anna-Pisa/raw/refs/heads/main/LAURA/podcast_LAURA.wav)> <br>
