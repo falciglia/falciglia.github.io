@@ -30,6 +30,10 @@ author:
   employer         : "Sant'Anna School of Advanced Studies"
   uri              : # URL
   email            : "salvatore.falciglia@santannapisa.it" 
+  software         : "MNE-Python | wave_clus | NEST Simulator | MATLAB | PyTorch | Google Colab | Jupyter | Paperspace | Cytoscape | NetworkX | LTspice simulator | AUTODESK Tinkercard Arduino simulator"
+  programming      : "Python | MATLAB | C | Java"
+  applications     : "Microsoft Office | Inkscape | LaTeX"
+  languages        : "Italian (Mother Tongue) | English (C1 Proficient User)"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
