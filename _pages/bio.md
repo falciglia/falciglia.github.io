@@ -12,8 +12,10 @@ author_profile: true
 📚 My Research
 ======
 
-Hi, I'm a PhD student at the Biorobotics Institute of the Sant'Anna School of Advanced Studies in Pisa. I work in Professor Alberto Mazzoni's computational neuroengineering lab. My main interests are information processing in the nervous system, neural signal decoding using deep learning techniques, neuro-robotics and biorobotics applications.
+I am a PhD student at the Biorobotics Institute of the Sant’Anna School of Advanced Studies in Pisa, Italy, where I work in the Computational Neuroengineering Laboratory under the supervision of Professor Alberto Mazzoni.
 
-I spent a year (Aug 2022-July 2023) as a trainee researcher at EMBL Rome in the Asari group in Visual Systems Neuroscience, and nine months (Jan-Sept 2024) as a pre-doctoral research fellow at the Biorobotics Institute, working with Professor Mazzoni.
+My research interests lie at the intersection of neuroengineering, computational neuroscience, and biorobotics, with a particular focus on understanding information processing in the nervous system and developing machine learning and deep learning approaches for neural signal decoding.
 
-I got my BSc in Electronic Engineering with honours from the University of Catania in 2021 and my MSc in Artificial Intelligence and Robotics with honours from the Sapienza University of Rome in 2023, which I did while I was at the Superior School of Advanced Studies (SSAS) Sapienza.
+My current research investigates basal ganglia–cortical electrophysiological coupling and subthalamic nucleus (STN) neural dynamics, using intraoperative microelectrode recordings acquired during awake deep brain stimulation (DBS) surgery and chronic local field potential (LFP) recordings. I am also interested in the multimodal integration of neural signals, high-density electromyography (HD-EMG), and inertial measurement unit (IMU) data to identify biomarkers of motor behavior and inform adaptive neuromodulation strategies.
+
+More broadly, I aim to develop computational approaches that bridge neural signal processing, machine learning, and neurotechnology to advance our understanding of the neural mechanisms underlying motor behavior and contribute to the development of next-generation neuroprosthetic and neuromodulation systems.
