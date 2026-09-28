@@ -41,6 +41,9 @@ author_profile: true
   Poster presentation. 
 
 - **"PhD&doc talks" Scuola Superiore di Studi Avanzati Sapienza.** - Rome, Italy *(March 14, 2025)* <br>
+  Oral presentation.
+
+- **Convegno "Neurology and Neuroengineering Advancements in Basal Ganglia Disfunction and Deep Brain Stimulation"** - Investigator meeting PNRR-MAD-2022-12376927. Florence, Italy *(February 5-6, 2025)* <br>
   Oral presentation. 
 
 - **The First Conference of the Italian Network for Computational Neuroscience (INCN)** - Rome, Italy *(September 23-26, 2024)* <br>
