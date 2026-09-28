@@ -33,12 +33,13 @@ Main activities and responsibilities: Development of Deep Learning Algorithms fo
 🔧 **Pre-doctoral Research Fellow, The Biorobotics Institute of the Sant’Anna School of Advanced Studies – Pisa** *(Gen 2024 - Sep 2024)*<br> 
 Main activities and responsibilities: Member of the Computational Neuroengineering Laboratory of Professor Alberto Mazzoni | Employed as: research fellow - fixed-length contract [PNRR MAD: The etiopathological basis of gait derangement in Parkinson’s disease: decoding locomotor network dynamics] | Collaboration with the research team of Prof. Ioannis Ugo Isaias at the Parkinson Institute Milan, ASST G. Pini-CTO, 20126 Milano, Italy
 
-🔧 **Trainee Researcher, EMBL Rome** *Aug 2022 - Aug 2023)*<br> 
+🔧 **Trainee Researcher, EMBL Rome** *(Aug 2022 - Aug 2023)*<br> 
 Main activities and responsibilities: Member of the Asari Group in Visual Systems Neuroscience | Employed as: intern/trainee - fixed-length contract
 
 Education📚
 ------
-🎓  ⟳   **Ph.D. Biorobotics**<br> *Sant'Anna School of Advanced Studies*
+🎓  ⟳   **Ph.D. Biorobotics** *Sant'Anna School of Advanced Studies*<br>
+Supervisor: Professor Alberto Mazzoni @ the Computational Neuroengineering Lab | Research Focus: Basal ganglia-cortical electrophysiological coupling, with a focus on STN neural dynamics using intraoperative microelectrode recordings during awake DBS surgery and chronic LFP recordings from the Newronika AlphaDBS device. Multimodal integration of neural, high-density EMG, and IMU signals to identify biomarkers of motor behavior and adaptive neuromodulation. | Further notes: Ranked 1st in the admission assessment for the Ph.D. in Biorobotics, a.y. 2024-2025
 
 🎓 **MSc Artificial Intelligence and Robotics**<br> *Sapienza University of Rome* & *SSAS*
 
