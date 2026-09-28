@@ -19,13 +19,22 @@ redirect_from:
 
 About Me 🧠
 ======
-I hope to make my own contribution to medical scientific research. Electronic and AI&R engineering background to tackle challenges in medicine, neuroscience and neuroengineering. New decoding systems of CNS signals, a better understanding of the human brain, the mechanics behind memory, reasoning, knowledge and deduction is the breakthrough that people need today.
-
+Neural engineering researcher with expertise in multimodal invasive and non-invasive neural signal analysis, including microelectrode recordings, chronic aDBS LFP, EEG, high-density EMG, and IMU/gait data. Experienced in spike sorting, spectral and time-frequency analysis, advanced statistical modeling, closed-loop aDBS analysis, and machine- and deep-learning methods for neural time-series analysis.
   
 Interests🧐
 ======
 *Neuroengineering* - *Neural Decoding* - *Neural Information Processing* - *Deep Learning* - *Artificial Intelligence* - *Bioelectronics*
 
+Experience💻
+------
+🔧 **Freelance Consultant (ita: Prestazione occasionale)** *(May 2025 - Dec 2025)*<br> 
+Main activities and responsibilities: Development of Deep Learning Algorithms for gait analysis in patients with Parkinson’s Disease | Collaboration with the research team of Prof. Ioannis Ugo Isaias at the Universitatsklinikum Wuerzburg, 97080 Wuerzburg, Germany
+
+🔧 **Pre-doctoral Research Fellow, The Biorobotics Institute of the Sant’Anna School of Advanced Studies – Pisa** *(Gen 2024 - Sep 2024)*<br> 
+Main activities and responsibilities: Member of the Computational Neuroengineering Laboratory of Professor Alberto Mazzoni | Employed as: research fellow - fixed-length contract [PNRR MAD: The etiopathological basis of gait derangement in Parkinson’s disease: decoding locomotor network dynamics] | Collaboration with the research team of Prof. Ioannis Ugo Isaias at the Parkinson Institute Milan, ASST G. Pini-CTO, 20126 Milano, Italy
+
+🔧 **Trainee Researcher, EMBL Rome** *Aug 2022 - Aug 2023)*<br> 
+Main activities and responsibilities: Member of the Asari Group in Visual Systems Neuroscience | Employed as: intern/trainee - fixed-length contract
 
 Education📚
 ------
